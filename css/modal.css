@@ -67,11 +67,11 @@
 
 .modal-close-btn:hover .modal-close-icon,
 .modal-close-btn:focus .modal-close-icon {
-  color: #ffffff;
+  fill: #ffffff;
 }
 
 .modal-close-icon {
-  color: #2e2f42;
+  fill: #2e2f42;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -137,7 +137,7 @@
 }
 
 .modal-input:focus + .modal-input-icon {
-  color: #4d5ae5;
+  fill: #4d5ae5;
 }
 
 .modal-textarea {
@@ -210,7 +210,7 @@
 .modal-checkbox:checked + .modal-checkbox-label .checkbox-icon {
   background-color: #404bbf;
   border: none;
-  color: #f4f4fd;
+  fill: #f4f4fd;
 }
 
 .checkbox-icon svg {
@@ -221,7 +221,7 @@
   opacity: 1;
 }
 .privacy-link {
-  color: #4d5ae5;
+  fill: #4d5ae5;
   text-decoration: underline;
 }
 .modal-submit-btn {

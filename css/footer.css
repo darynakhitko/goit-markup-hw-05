@@ -80,7 +80,7 @@
 }
 
 .footer-social-icon {
-  color: #f4f4fd;
+  fill: #f4f4fd;
 }
 
 /* --- 3-й блок: Подписка --- */
@@ -152,5 +152,5 @@
 }
 
 .footer-button-icon {
-  color: #ffffff;
+  fill: #ffffff;
 }

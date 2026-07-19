@@ -86,5 +86,6 @@
 }
 
 .social-icon {
-  color: #f4f4fd;
+  fill: currentColor;
+  fill: #f4f4fd;
 }
